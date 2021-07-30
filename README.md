@@ -1,4 +1,15 @@
-## Oiii! Eu sou o Patrick Santana 
+## Oiii! Eu sou o Patrick Santana 👩‍💻 
+<img src = "https://img.freepik.com/fotos-gratis/violino-sobre-um-fundo-escuro_68747-147.jpg?size=626&ext=jpg" width = "325px" align = "right">
+
+:man_student: **Estudando:** Eletrônica Industrial e Tecnologia da informação
+
+🌱 **Aprendendo:** Aws, Java, SpringBoot, MySql, Css, Html, Javascript, Typescript, Angular;
+
+:school_satchel: **Principais ferramentas:** Visual Studio Code, GitHub, Spring;
+
+⚡ **Fato:** Amo de tocar violino e amo programar;
+
+---
 
 <!-- Card de stats do GitHub -->
  <div>
