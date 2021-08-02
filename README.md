@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Patrick Santana 👩‍💻 
+## Oiii! Eu sou o Patrick Santana 👩‍💻👋🏾 
 <img src = "https://img.freepik.com/fotos-gratis/violino-sobre-um-fundo-escuro_68747-147.jpg?size=626&ext=jpg" width = "250px" align = "right">
 
 💻🖥 **Desenvolvedor Full Stack Jr.**
