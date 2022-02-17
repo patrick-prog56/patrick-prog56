@@ -3,7 +3,7 @@
 
 💻🖥 **Desenvolvedor Full Stack Jr.**
 
-:man_student: **Estudando:** Eletrônica Industrial e Tecnologia da informação
+:man_student: **Estudando:** Análise e Desenvolvimento de Sistemas.
 
 🌱 **Em constante aprendizado:** Aws, Java, SpringBoot, MySql, Css, Html, Javascript, Typescript, Angular;
 
