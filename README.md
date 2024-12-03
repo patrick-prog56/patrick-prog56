@@ -3,7 +3,7 @@
 
 💻🖥 **Desenvolvedor Full Stack Jr.**
 
-:man_student: **Estudando:** Análise e Desenvolvimento de Sistemas.
+:man_student: **Certificado:** AWS Cloud Practitioner.
 
 🌱 **Em constante aprendizado:** Aws, Java, SpringBoot, MySql, Css, Html, Javascript, Typescript, Angular;
 
@@ -42,7 +42,6 @@
 
   <a href="https://www.linkedin.com/in/patrick-santana-220324146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:patricksantana56@gmail.com"><img src=	"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/patrick.santanaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=patrick-prog56&color=green" alt="patrick-prog56" />
   
 </div>
